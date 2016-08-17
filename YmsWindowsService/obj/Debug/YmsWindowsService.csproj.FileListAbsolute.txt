@@ -21,3 +21,7 @@ E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.exe
 E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.pdb
 E:\WindowsService\WindowsService\obj\Debug\YmsWindowsService.exe
 E:\WindowsService\WindowsService\obj\Debug\YmsWindowsService.pdb
+E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.ProjectInstaller.resources
+E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csproj.GenerateResource.Cache
+E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.exe
+E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.pdb
