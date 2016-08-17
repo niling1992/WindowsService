@@ -1,0 +1,11 @@
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\MainWindow.baml
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\MainWindow.g.cs
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\App.g.cs
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\YmsWindowsServiceUI.csproj.GenerateResource.Cache
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\bin\Debug\YmsWindowsServiceUI.exe
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\bin\Debug\YmsWindowsServiceUI.pdb
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\YmsWindowsServiceUI_MarkupCompile.cache
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\YmsWindowsServiceUI.g.resources
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\YmsWindowsServiceUI.Properties.Resources.resources
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\YmsWindowsServiceUI.exe
+E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\obj\x86\Debug\YmsWindowsServiceUI.pdb
