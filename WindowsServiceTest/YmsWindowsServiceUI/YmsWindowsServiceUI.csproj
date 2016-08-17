@@ -8,8 +8,8 @@
     <ProjectGuid>{07445760-082C-4B2B-8E06-53505B3AB01B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsServiceTestUI</RootNamespace>
-    <AssemblyName>WindowsServiceTestUI</AssemblyName>
+    <RootNamespace>YmsWindowsServiceUI</RootNamespace>
+    <AssemblyName>YmsWindowsServiceUI</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using System.Diagnostics;
 using System.ServiceProcess;
 
-namespace WindowsServiceTestUI
+namespace YmsWindowsServiceUI
 {
 	/// <summary>
 	/// MainWindow.xaml 的交互逻辑

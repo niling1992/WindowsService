@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsServiceTestUI.Properties
+namespace YmsWindowsServiceUI.Properties
 {
 
 
