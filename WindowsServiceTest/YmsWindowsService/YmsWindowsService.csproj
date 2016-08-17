@@ -8,8 +8,8 @@
     <ProjectGuid>{B997FAEC-A6B7-46A3-A064-8B931CA4540C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsServiceTest</RootNamespace>
-    <AssemblyName>WindowsServiceTest</AssemblyName>
+    <RootNamespace>YmsWindowsService</RootNamespace>
+    <AssemblyName>YmsWindowsService</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -19,7 +19,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\WindowsServiceTestUI\bin\Debug\Service\</OutputPath>
+    <OutputPath>..\YmsWindowsServiceUI\bin\Debug\Service\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -73,6 +73,9 @@
   <ItemGroup>
     <EmbeddedResource Include="ProjectInstaller.resx">
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YmsService.resx">
+      <DependentUpon>YmsService.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

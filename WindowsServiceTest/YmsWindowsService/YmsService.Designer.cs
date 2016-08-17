@@ -28,10 +28,16 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			components = new System.ComponentModel.Container();
-			this.ServiceName = "Service1";
+            this.projectInstaller1 = new WindowsServiceTest.ProjectInstaller();
+            // 
+            // YmsService
+            // 
+            this.ServiceName = "Service1";
+
 		}
 
 		#endregion
+
+        private ProjectInstaller projectInstaller1;
 	}
 }

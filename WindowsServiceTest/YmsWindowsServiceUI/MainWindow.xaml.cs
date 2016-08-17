@@ -54,20 +54,20 @@ namespace WindowsServiceTestUI
 
 		private void btnCheckStatus_Click(object sender, RoutedEventArgs e)
 		{
-			ServiceController serviceController = new ServiceController("ServiceTest");
+            ServiceController serviceController = new ServiceController("YmsService");
 			lblCheckStatus.Text = serviceController.Status.ToString();
 		}
 
 		private void btnStart_Click(object sender, RoutedEventArgs e)
 		{
-			ServiceController serviceController = new ServiceController("ServiceTest");
+            ServiceController serviceController = new ServiceController("YmsService");
 			serviceController.Start();
 			lblStatus.Text = "服务已启动";
 		}
 
 		private void btnStop_Click(object sender, RoutedEventArgs e)
 		{
-			ServiceController serviceController = new ServiceController("ServiceTest");
+            ServiceController serviceController = new ServiceController("YmsService");
 			if (serviceController.CanStop)
 			{
 				serviceController.Stop();
@@ -79,7 +79,7 @@ namespace WindowsServiceTestUI
 
 		private void btnPauseContinue_Click(object sender, RoutedEventArgs e)
 		{
-			ServiceController serviceController = new ServiceController("ServiceTest");
+            ServiceController serviceController = new ServiceController("YmsService");
 			if (serviceController.CanPauseAndContinue)
 			{
 				if (serviceController.Status == ServiceControllerStatus.Running)
