@@ -1,6 +1,0 @@
-E:\WindowsService\WindowsServiceTest\EasyHttp\bin\Debug\EasyHttp.dll
-E:\WindowsService\WindowsServiceTest\EasyHttp\bin\Debug\EasyHttp.pdb
-E:\WindowsService\WindowsServiceTest\EasyHttp\bin\Debug\JsonFx.dll
-E:\WindowsService\WindowsServiceTest\EasyHttp\bin\Debug\JsonFx.xml
-E:\WindowsService\WindowsServiceTest\EasyHttp\obj\Debug\EasyHttp.dll
-E:\WindowsService\WindowsServiceTest\EasyHttp\obj\Debug\EasyHttp.pdb
