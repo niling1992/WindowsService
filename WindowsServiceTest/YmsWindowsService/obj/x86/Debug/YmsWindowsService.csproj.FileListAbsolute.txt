@@ -11,3 +11,4 @@ E:\WindowsService\WindowsServiceTest\YmsWindowsService\obj\x86\Debug\YmsWindowsS
 E:\WindowsService\WindowsServiceTest\YmsWindowsService\obj\x86\Debug\YmsWindowsService.pdb
 E:\WindowsService\WindowsServiceTest\YmsWindowsService\obj\x86\Debug\WindowsServiceTest.YmsService.resources
 E:\WindowsService\WindowsServiceTest\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.pdb
+E:\WindowsService\WindowsServiceTest\YmsWindowsService\obj\x86\Debug\YmsWindowsService.csprojResolveAssemblyReference.cache
