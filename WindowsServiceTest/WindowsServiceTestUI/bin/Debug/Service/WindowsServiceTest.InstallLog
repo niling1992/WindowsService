@@ -331,3 +331,25 @@ System.Security.SecurityException: 不允许所请求的注册表访问权。
 正在移除 EventLog 源 ServiceTest。
 正在从系统中移除服务 ServiceTest...
 已成功地从系统中移除服务 ServiceTest。
+正在安装程序集“E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+正在安装服务 ServiceTest...
+已成功安装服务 ServiceTest。
+正在日志 Application 中创建 EventLog 源 ServiceTest...
+正在提交程序集“E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+正在卸载程序集“E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+正在移除 EventLog 源 ServiceTest。
+正在从系统中移除服务 ServiceTest...
+已成功地从系统中移除服务 ServiceTest。
+尝试停止服务 ServiceTest。
