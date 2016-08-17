@@ -16,89 +16,89 @@ using System.ServiceProcess;
 
 namespace YmsWindowsServiceUI
 {
-	/// <summary>
-	/// MainWindow.xaml 的交互逻辑
-	/// </summary>
-	public partial class MainWindow : Window
-	{
-		public MainWindow()
-		{
-			InitializeComponent();
-		}
+    /// <summary>
+    /// MainWindow.xaml 的交互逻辑
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
 
-		private void btnInstall_Click(object sender, RoutedEventArgs e)
-		{
-			string CurrentDirectory = Environment.CurrentDirectory;
-			Environment.CurrentDirectory = CurrentDirectory + "\\Service";
-			Process process = new Process();
-			process.StartInfo.UseShellExecute = false;
-			process.StartInfo.FileName = "Install.bat";
-			process.StartInfo.CreateNoWindow = true;
-			process.Start();
-			lblLog.Text = "安装成功";
-			System.Environment.CurrentDirectory = CurrentDirectory;
-		}
+        private void btnInstall_Click(object sender, RoutedEventArgs e)
+        {
+            string CurrentDirectory = Environment.CurrentDirectory;
+            Environment.CurrentDirectory = CurrentDirectory + "\\Service";
+            Process process = new Process();
+            process.StartInfo.UseShellExecute = false;
+            process.StartInfo.FileName = "Install.bat";
+            process.StartInfo.CreateNoWindow = true;
+            process.Start();
+            lblLog.Text = "安装成功";
+            System.Environment.CurrentDirectory = CurrentDirectory;
+        }
 
-		private void btnUninstall_Click(object sender, RoutedEventArgs e)
-		{
-			string CurrentDirectory = Environment.CurrentDirectory;
-			Environment.CurrentDirectory = CurrentDirectory + "\\Service";
-			Process process = new Process();
-			process.StartInfo.UseShellExecute = false;
-			process.StartInfo.FileName = "Uninstall.bat";
-			process.StartInfo.CreateNoWindow = true;
-			process.Start();
-			lblLog.Text = "卸载成功";
-			Environment.CurrentDirectory = CurrentDirectory;
-		}
+        private void btnUninstall_Click(object sender, RoutedEventArgs e)
+        {
+            string CurrentDirectory = Environment.CurrentDirectory;
+            Environment.CurrentDirectory = CurrentDirectory + "\\Service";
+            Process process = new Process();
+            process.StartInfo.UseShellExecute = false;
+            process.StartInfo.FileName = "Uninstall.bat";
+            process.StartInfo.CreateNoWindow = true;
+            process.Start();
+            lblLog.Text = "卸载成功";
+            Environment.CurrentDirectory = CurrentDirectory;
+        }
 
-		private void btnCheckStatus_Click(object sender, RoutedEventArgs e)
-		{
+        private void btnCheckStatus_Click(object sender, RoutedEventArgs e)
+        {
             ServiceController serviceController = new ServiceController("YmsService");
-			lblCheckStatus.Text = serviceController.Status.ToString();
-		}
+            lblCheckStatus.Text = serviceController.Status.ToString();
+        }
 
-		private void btnStart_Click(object sender, RoutedEventArgs e)
-		{
+        private void btnStart_Click(object sender, RoutedEventArgs e)
+        {
             ServiceController serviceController = new ServiceController("YmsService");
-			serviceController.Start();
-			lblStatus.Text = "服务已启动";
-		}
+            serviceController.Start();
+            lblStatus.Text = "服务已启动";
+        }
 
-		private void btnStop_Click(object sender, RoutedEventArgs e)
-		{
+        private void btnStop_Click(object sender, RoutedEventArgs e)
+        {
             ServiceController serviceController = new ServiceController("YmsService");
-			if (serviceController.CanStop)
-			{
-				serviceController.Stop();
-				lblStatus.Text = "服务已停止";
-			}
-			else
-				lblStatus.Text = "服务不能停止";
-		}
+            if (serviceController.CanStop)
+            {
+                serviceController.Stop();
+                lblStatus.Text = "服务已停止";
+            }
+            else
+                lblStatus.Text = "服务不能停止";
+        }
 
-		private void btnPauseContinue_Click(object sender, RoutedEventArgs e)
-		{
+        private void btnPauseContinue_Click(object sender, RoutedEventArgs e)
+        {
             ServiceController serviceController = new ServiceController("YmsService");
-			if (serviceController.CanPauseAndContinue)
-			{
-				if (serviceController.Status == ServiceControllerStatus.Running)
-				{
-					serviceController.Pause();
-					lblStatus.Text = "服务已暂停";
-				}
-				else if (serviceController.Status == ServiceControllerStatus.Paused)
-				{
-					serviceController.Continue();
-					lblStatus.Text = "服务已继续";
-				}
-				else
-				{
-					lblStatus.Text = "服务未处于暂停和启动状态";
-				}
-			}
-			else
-				lblStatus.Text = "服务不能暂停";
-		}
-	}
+            if (serviceController.CanPauseAndContinue)
+            {
+                if (serviceController.Status == ServiceControllerStatus.Running)
+                {
+                    serviceController.Pause();
+                    lblStatus.Text = "服务已暂停";
+                }
+                else if (serviceController.Status == ServiceControllerStatus.Paused)
+                {
+                    serviceController.Continue();
+                    lblStatus.Text = "服务已继续";
+                }
+                else
+                {
+                    lblStatus.Text = "服务未处于暂停和启动状态";
+                }
+            }
+            else
+                lblStatus.Text = "服务不能暂停";
+        }
+    }
 }

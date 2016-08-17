@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B4E8AD4E-08ED-4445-8CEE-5F6C47EEAB22}</ProjectGuid>
+    <ProjectGuid>{984B3953-4F1D-4303-B189-44717A353C27}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>EasyHttp</RootNamespace>
