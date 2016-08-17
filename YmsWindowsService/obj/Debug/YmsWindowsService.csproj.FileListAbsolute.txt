@@ -1,0 +1,23 @@
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\obj\Debug\YmsWindowsService.csprojResolveAssemblyReference.cache
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\obj\Debug\YmsWindowsService.ProjectInstaller.resources
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\obj\Debug\YmsWindowsService.csproj.GenerateResource.Cache
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\WindowsService.exe.config
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\WindowsService.exe
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\WindowsService.pdb
+E:\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+E:\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+E:\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+E:\WindowsService\WindowsService\obj\Debug\YmsWindowsService.ProjectInstaller.resources
+E:\WindowsService\WindowsService\obj\Debug\YmsWindowsService.csproj.GenerateResource.Cache
+E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\Install.bat
+E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\Uninstall.bat
+E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.exe.config
+E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.exe
+E:\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.pdb
+E:\WindowsService\WindowsService\obj\Debug\YmsWindowsService.exe
+E:\WindowsService\WindowsService\obj\Debug\YmsWindowsService.pdb
