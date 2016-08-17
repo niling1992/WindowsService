@@ -5,3 +5,10 @@ c:\users\岭\documents\visual studio 2013\Projects\WindowsService\EasyHttp\bin\D
 c:\users\岭\documents\visual studio 2013\Projects\WindowsService\EasyHttp\obj\Debug\EasyHttp.csprojResolveAssemblyReference.cache
 c:\users\岭\documents\visual studio 2013\Projects\WindowsService\EasyHttp\obj\Debug\EasyHttp.dll
 c:\users\岭\documents\visual studio 2013\Projects\WindowsService\EasyHttp\obj\Debug\EasyHttp.pdb
+E:\WindowsService\EasyHttp\bin\Debug\EasyHttp.dll
+E:\WindowsService\EasyHttp\bin\Debug\EasyHttp.pdb
+E:\WindowsService\EasyHttp\bin\Debug\JsonFx.dll
+E:\WindowsService\EasyHttp\bin\Debug\JsonFx.xml
+E:\WindowsService\EasyHttp\obj\Debug\EasyHttp.csprojResolveAssemblyReference.cache
+E:\WindowsService\EasyHttp\obj\Debug\EasyHttp.dll
+E:\WindowsService\EasyHttp\obj\Debug\EasyHttp.pdb

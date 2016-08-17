@@ -1,1 +1,0 @@
-c:\users\岭\documents\visual studio 2013\Projects\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
