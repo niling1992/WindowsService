@@ -1,0 +1,12 @@
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\bin\Debug\YmsWindowsServiceUI.exe
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\bin\Debug\YmsWindowsServiceUI.pdb
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.csprojResolveAssemblyReference.cache
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\MainWindow.baml
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\MainWindow.g.cs
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\App.g.cs
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI_MarkupCompile.cache
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.g.resources
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.Properties.Resources.resources
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.csproj.GenerateResource.Cache
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.exe
+c:\users\岭\documents\visual studio 2013\Projects\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.pdb
