@@ -1,0 +1,16 @@
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\Install.bat
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\Uninstall.bat
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.pdb
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.ProjectInstaller.resources
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.csproj.GenerateResource.Cache
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.exe
+E:\WindowsServiceTest\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.pdb
+E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\Install.bat
+E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\Uninstall.bat
+E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+E:\WindowsService\WindowsServiceTest\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.pdb
+E:\WindowsService\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.ProjectInstaller.resources
+E:\WindowsService\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.csproj.GenerateResource.Cache
+E:\WindowsService\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.exe
+E:\WindowsService\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.pdb
