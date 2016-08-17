@@ -28,8 +28,8 @@ namespace WindowsServiceTestUI
 
 		private void btnInstall_Click(object sender, RoutedEventArgs e)
 		{
-			string CurrentDirectory = System.Environment.CurrentDirectory;
-			System.Environment.CurrentDirectory = CurrentDirectory + "\\Service";
+			string CurrentDirectory = Environment.CurrentDirectory;
+			Environment.CurrentDirectory = CurrentDirectory + "\\Service";
 			Process process = new Process();
 			process.StartInfo.UseShellExecute = false;
 			process.StartInfo.FileName = "Install.bat";
@@ -41,15 +41,15 @@ namespace WindowsServiceTestUI
 
 		private void btnUninstall_Click(object sender, RoutedEventArgs e)
 		{
-			string CurrentDirectory = System.Environment.CurrentDirectory;
-			System.Environment.CurrentDirectory = CurrentDirectory + "\\Service";
+			string CurrentDirectory = Environment.CurrentDirectory;
+			Environment.CurrentDirectory = CurrentDirectory + "\\Service";
 			Process process = new Process();
 			process.StartInfo.UseShellExecute = false;
 			process.StartInfo.FileName = "Uninstall.bat";
 			process.StartInfo.CreateNoWindow = true;
 			process.Start();
 			lblLog.Text = "卸载成功";
-			System.Environment.CurrentDirectory = CurrentDirectory;
+			Environment.CurrentDirectory = CurrentDirectory;
 		}
 
 		private void btnCheckStatus_Click(object sender, RoutedEventArgs e)
