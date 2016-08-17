@@ -25,3 +25,4 @@ E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.ProjectInstaller
 E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csproj.GenerateResource.Cache
 E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.exe
 E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.pdb
+E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csprojResolveAssemblyReference.cache
