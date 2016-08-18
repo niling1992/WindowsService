@@ -41,10 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity\msg_ccsms_result.cs" />
     <Compile Include="Entity\msg_ccsms_send.cs" />
-    <Compile Include="Entity\msg_dic_flowstatus.cs" />
-    <Compile Include="Entity\msg_history.cs" />
     <Compile Include="Msg_ccsms_sendDAL.cs" />
     <Compile Include="SqlHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

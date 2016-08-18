@@ -32,10 +32,9 @@ namespace YmsWindowsService
 
             MT.Elapsed += new System.Timers.ElapsedEventHandler((object sender, ElapsedEventArgs e) =>
             {
-               
                 using (StreamWriter sw = new StreamWriter("C:\\log.txt", true))
                 {
-                    sw.WriteLine(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss ") + "获取以发送短信到区政府平台间隔大于一小时的数据!");
+                    sw.WriteLine(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss "));
                 }
                 /*获取以发送短信到区政府平台间隔大于一小时的数据*/
                 var list = msg_ccsms_sendDAL.GetSqlList();

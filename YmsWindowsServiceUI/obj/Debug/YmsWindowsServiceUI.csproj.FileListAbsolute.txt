@@ -16,7 +16,6 @@ E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServi
 E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.pdb
 E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\YmsWindowsServiceUI.exe
 E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\YmsWindowsServiceUI.pdb
-E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\obj\Debug\YmsWindowsServiceUI.csprojResolveAssemblyReference.cache
 E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\obj\Debug\MainWindow.baml
 E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\obj\Debug\MainWindow.g.cs
 E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\obj\Debug\App.g.cs
