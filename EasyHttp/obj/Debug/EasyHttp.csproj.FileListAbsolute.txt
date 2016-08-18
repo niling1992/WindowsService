@@ -12,3 +12,10 @@ E:\WindowsService\EasyHttp\bin\Debug\JsonFx.xml
 E:\WindowsService\EasyHttp\obj\Debug\EasyHttp.csprojResolveAssemblyReference.cache
 E:\WindowsService\EasyHttp\obj\Debug\EasyHttp.dll
 E:\WindowsService\EasyHttp\obj\Debug\EasyHttp.pdb
+E:\YMS项目\项目\WindowsService\EasyHttp\bin\Debug\EasyHttp.dll
+E:\YMS项目\项目\WindowsService\EasyHttp\bin\Debug\EasyHttp.pdb
+E:\YMS项目\项目\WindowsService\EasyHttp\bin\Debug\JsonFx.dll
+E:\YMS项目\项目\WindowsService\EasyHttp\bin\Debug\JsonFx.xml
+E:\YMS项目\项目\WindowsService\EasyHttp\obj\Debug\EasyHttp.csprojResolveAssemblyReference.cache
+E:\YMS项目\项目\WindowsService\EasyHttp\obj\Debug\EasyHttp.dll
+E:\YMS项目\项目\WindowsService\EasyHttp\obj\Debug\EasyHttp.pdb

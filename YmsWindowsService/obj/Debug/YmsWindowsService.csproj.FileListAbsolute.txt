@@ -26,3 +26,13 @@ E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csproj.GenerateR
 E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.exe
 E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.pdb
 E:\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csprojResolveAssemblyReference.cache
+E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\Install.bat
+E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\Uninstall.bat
+E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.exe.config
+E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.exe
+E:\YMS项目\项目\WindowsService\YmsWindowsServiceUI\bin\Debug\Service\YmsWindowsService.pdb
+E:\YMS项目\项目\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csprojResolveAssemblyReference.cache
+E:\YMS项目\项目\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.ProjectInstaller.resources
+E:\YMS项目\项目\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.csproj.GenerateResource.Cache
+E:\YMS项目\项目\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.exe
+E:\YMS项目\项目\WindowsService\YmsWindowsService\obj\Debug\YmsWindowsService.pdb

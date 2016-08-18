@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YmsWindowsServiceUI", "YmsW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YmsWindowsService", "YmsWindowsService\YmsWindowsService.csproj", "{51419063-C646-4758-B800-639CCAE52D04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YmsDAL", "YmsDAL\YmsDAL.csproj", "{721E9927-4A83-4F29-B479-EA2EEC4AE1E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{51419063-C646-4758-B800-639CCAE52D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51419063-C646-4758-B800-639CCAE52D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51419063-C646-4758-B800-639CCAE52D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721E9927-4A83-4F29-B479-EA2EEC4AE1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721E9927-4A83-4F29-B479-EA2EEC4AE1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721E9927-4A83-4F29-B479-EA2EEC4AE1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721E9927-4A83-4F29-B479-EA2EEC4AE1E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

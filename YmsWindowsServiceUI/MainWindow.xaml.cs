@@ -16,15 +16,18 @@ using System.ServiceProcess;
 
 namespace YmsWindowsServiceUI
 {
-    /// <summary>
-    /// MainWindow.xaml 的交互逻辑
-    /// </summary>
+    /*
+     * / <summary>
+     * / MainWindow.xaml 的交互逻辑
+     * / </summary>
+     */
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
         }
+
 
         private void btnInstall_Click(object sender, RoutedEventArgs e)
         {
@@ -39,6 +42,7 @@ namespace YmsWindowsServiceUI
             System.Environment.CurrentDirectory = CurrentDirectory;
         }
 
+
         private void btnUninstall_Click(object sender, RoutedEventArgs e)
         {
             string CurrentDirectory = Environment.CurrentDirectory;
@@ -52,11 +56,13 @@ namespace YmsWindowsServiceUI
             Environment.CurrentDirectory = CurrentDirectory;
         }
 
+
         private void btnCheckStatus_Click(object sender, RoutedEventArgs e)
         {
             ServiceController serviceController = new ServiceController("YmsService");
             lblCheckStatus.Text = serviceController.Status.ToString();
         }
+
 
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
@@ -64,6 +70,7 @@ namespace YmsWindowsServiceUI
             serviceController.Start();
             lblStatus.Text = "服务已启动";
         }
+
 
         private void btnStop_Click(object sender, RoutedEventArgs e)
         {
@@ -76,6 +83,7 @@ namespace YmsWindowsServiceUI
             else
                 lblStatus.Text = "服务不能停止";
         }
+
 
         private void btnPauseContinue_Click(object sender, RoutedEventArgs e)
         {
