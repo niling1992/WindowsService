@@ -73,6 +73,16 @@
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EasyHttp\EasyHttp.csproj">
+      <Project>{984b3953-4f1d-4303-b189-44717a353c27}</Project>
+      <Name>EasyHttp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YmsDAL\YmsDAL.csproj">
+      <Project>{721e9927-4a83-4f29-b479-ea2eec4ae1e8}</Project>
+      <Name>YmsDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
