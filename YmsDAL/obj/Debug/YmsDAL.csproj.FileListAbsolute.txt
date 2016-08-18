@@ -1,0 +1,5 @@
+E:\YMS项目\项目\WindowsService\YmsDAL\bin\Debug\YmsDAL.dll
+E:\YMS项目\项目\WindowsService\YmsDAL\bin\Debug\YmsDAL.pdb
+E:\YMS项目\项目\WindowsService\YmsDAL\obj\Debug\YmsDAL.csprojResolveAssemblyReference.cache
+E:\YMS项目\项目\WindowsService\YmsDAL\obj\Debug\YmsDAL.dll
+E:\YMS项目\项目\WindowsService\YmsDAL\obj\Debug\YmsDAL.pdb
