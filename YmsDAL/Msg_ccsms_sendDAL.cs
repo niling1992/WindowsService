@@ -12,7 +12,7 @@ namespace YmsDAL
         private static string connectString =
             ConfigurationManager.AppSettings["ConnectionString"].ToString();
         private SqlHelper he = new SqlHelper(connectString);
-        private string[] status = { "4", "5", "6" };
+        private string[] status = { "MSG02"};
         /// <summary>
         /// 获取以发送短信到区政府平台间隔大于一小时的数据
         /// </summary>
