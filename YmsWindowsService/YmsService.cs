@@ -23,7 +23,6 @@ namespace YmsWindowsService
 
         protected override void OnStart(string[] args)
         {
-
             //定时器
             Timer MT = new Timer();
 
