@@ -10,7 +10,7 @@ namespace YmsDAL
     public class Msg_ccsms_sendDAL
     {
         private static string connectString =
-            ConfigurationManager.AppSettings["ConnectionString"].ToString();
+            ConfigurationManager.AppSettings["ConnectionString"];
         private SqlHelper he = new SqlHelper(connectString);
         private string[] status = { "MSG02"};
         /// <summary>
